@@ -1,4 +1,4 @@
-**Agenda**
+###**Agenda**
 
 This week we are going to write our first C++ program, and talk about talk about mathematical functions.
 
@@ -27,7 +27,8 @@ You should plan the week as follows:
 
 <br/>
 
-**Objectives**
+###**Objectives**
+
 Make sure that by the end of this week you:
 
 - Understand the need of compiling a program in a high level language to an equivalent program in machine language
