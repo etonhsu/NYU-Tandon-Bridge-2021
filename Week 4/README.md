@@ -12,6 +12,7 @@ You should plan the week as follows:
 - Solve homework assignment that will be posted on Friday
 
 
+
 Objectives
 
 Make sure that by the end of this week you:
