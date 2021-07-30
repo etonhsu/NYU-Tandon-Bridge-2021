@@ -1,4 +1,4 @@
-**Agenda**
+### **Agenda**
 
 This week we will see some more statements that are used to control the flow of our programs. We will go over while and for loops. These statements allow us to repeat a set of statements over and over.
 
@@ -13,7 +13,7 @@ You should plan the week as follows:
 
 <br/>
 
-**Objectives**
+### **Objectives**
 
 Make sure that by the end of this week you:
 
