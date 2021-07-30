@@ -11,6 +11,7 @@ You should plan the week as follows:
 - Attend the weekly webinar.
 - Solve homework assignment that will be posted on Friday
 
+<br/>
 
 **Objectives**
 
