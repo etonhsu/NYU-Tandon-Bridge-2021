@@ -1,4 +1,4 @@
-**Agenda**
+### **Agenda**
 
 This week we are going to give you a short introduction of the fundamentals of the computer’s hardware, so we understand the major components inside a computer and their use. 
 
@@ -21,7 +21,7 @@ You should plan the week as follows:
  
 <br/>
 
-**Objectives**
+### **Objectives**
 
 Make sure that by the end of this week you:
 
