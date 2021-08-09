@@ -1,4 +1,4 @@
-**Agenda**
+### **Agenda**
 
 This week we will see how to define our own functions.
 
@@ -17,9 +17,10 @@ You should plan the week as follows:
 - Read pages 51-70 in the “Data structures and Algorithms in C++” textbook (chapter 2)
 - Attend the weekly webinar.
 - Solve homework assignment that will be posted on Friday 
-- Objectives
 
 <br/>
+
+### **Objectives**
 
 Make sure that by the end of this week you:
 
